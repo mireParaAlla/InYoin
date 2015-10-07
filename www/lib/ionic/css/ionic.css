@@ -2332,6 +2332,13 @@ a {
   -webkit-tap-highlight-color: transparent; }
   a[href]:hover {
     cursor: pointer; }
+	/* ==========================================================================
+   My Style
+   ========================================================================== */
+body {
+  background:url(../../../img/cielo.png) no-repeat fixed center center #9BF9FF; 
+  background-size:cover;
+  }
 
 /* ==========================================================================
    Typography
